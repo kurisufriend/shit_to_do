@@ -5,6 +5,7 @@ author        = "cynic"
 description   = "tells me shit-to-do"
 license       = "MIT"
 srcDir        = "src"
+binDir        = "bin"
 bin           = @["shit_to_do"]
 
 
